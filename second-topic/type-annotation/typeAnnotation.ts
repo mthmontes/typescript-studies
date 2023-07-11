@@ -19,7 +19,7 @@ let carros: {
 carros = { nome: "Corolla", ano: 2023, preco:900.00 }
 console.log(carros)
 
-// Funções
+// ==> Funções
 
 const multiplicar = (num1: number, num2:number) => {
     return num1 * num2
@@ -27,3 +27,4 @@ const multiplicar = (num1: number, num2:number) => {
 }
 
 console.log(multiplicar(10,4))
+

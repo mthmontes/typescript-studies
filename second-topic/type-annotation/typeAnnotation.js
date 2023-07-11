@@ -9,7 +9,7 @@ console.log(animais);
 let carros;
 carros = { nome: "Corolla", ano: 2023, preco: 900.00 };
 console.log(carros);
-// Funções
+// ==> Funções
 const multiplicar = (num1, num2) => {
     return num1 * num2;
 };
